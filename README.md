@@ -1,4 +1,4 @@
-# gz822.github.io
+# gzein.github.io
 
 This is where I will be hosting my personal webpage
 
